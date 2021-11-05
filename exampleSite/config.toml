@@ -7,24 +7,6 @@ theme = "parsa-hugo"
 title = "Claire Adelaide"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.main]]
-hasChildren = false
-name = "Homepage 1"
-url = "homepage/home-1"
-weight = "1"
-[[menu.main]]
-hasChildren = ""
-name = "Homepage 2"
-url = "homepage/home-2"
-weight = "3"
-[[menu.main]]
-name = "About"
-url = "about"
-weight = 2
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
