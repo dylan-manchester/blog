@@ -7,21 +7,37 @@ theme = "parsa-hugo"
 title = "Claire Adelaide"
 [markup.goldmark.renderer]
 unsafe = true
+[[menu.main]]
+name = "Homepage 1"
+url = "homepage/home-1"
+weight = 1
+[[menu.main]]
+name = "Homepage 2"
+url = "homepage/home-2"
+weight = 2
+[[menu.main]]
+name = "About"
+url = "about"
+weight = 3
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 4
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "6 rip carl Avenue CA 90733"
-author = "John Doe"
-author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+address = ""
+author = "Claire Healey"
+author_image = "images/profile.png"
+bio = ""
 contact_form_action = "#"
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](https://themefisher.com)"
-description = "This is meta description"
-email = "exmaple@ymail.com"
+copyright = "Copyright &copy; 2021"
+description = ""
+email = ""
 home = "Home"
 layout = "1"
 logo = "images/logo.png"
-mobile = "+90 000 333 22"
+mobile = ""
 preloader = true
 search = true
 [params.cookies]
@@ -59,14 +75,8 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-icon = "ti-facebook"
-link = "https://facebook.com/themefisher"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://www.linkedin.com/in/claire-healey-947233204/"
 [[params.social]]
 icon = "ti-github"
-link = "#"
+link = "https://github.com/dylan-manchester/blog"
