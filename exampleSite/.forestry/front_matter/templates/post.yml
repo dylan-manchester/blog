@@ -41,6 +41,7 @@ fields:
 pages:
 - exampleSite/content/blog/beach-vibes.md
 - exampleSite/content/blog/big-beta.md
+- exampleSite/content/blog/citrus.md
 - exampleSite/content/blog/cookie-monster-elmo.md
 - exampleSite/content/blog/desert.md
 - exampleSite/content/blog/surfing.md
