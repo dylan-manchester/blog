@@ -26,7 +26,7 @@ fields:
   label: tags
 - name: type
   type: select
-  default: ''
+  default: post
   config:
     required: false
     options:
