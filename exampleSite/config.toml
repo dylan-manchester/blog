@@ -29,6 +29,7 @@ email = ""
 home = "Home"
 layout = "1"
 logo = "images/logo.png"
+favicon = "images/logo.png"
 mobile = ""
 preloader = true
 search = false
