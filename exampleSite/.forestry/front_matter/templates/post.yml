@@ -39,6 +39,7 @@ fields:
       path: 
   label: type
 pages:
+- exampleSite/content/blog/beach-vibes.md
 - exampleSite/content/blog/big-beta.md
 - exampleSite/content/blog/cookie-monster-elmo.md
 - exampleSite/content/blog/desert.md
