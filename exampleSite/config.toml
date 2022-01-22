@@ -8,14 +8,6 @@ title = "Claire Adelaide"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Homepage 1"
-url = "homepage/home-1"
-weight = 1
-[[menu.main]]
-name = "Homepage 2"
-url = "homepage/home-2"
-weight = 2
-[[menu.main]]
 name = "About"
 url = "about"
 weight = 3
