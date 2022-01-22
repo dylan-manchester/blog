@@ -8,6 +8,10 @@ fields:
 - type: file
   name: image
   label: image
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: gallery
 - type: datetime
   name: date
   label: date
