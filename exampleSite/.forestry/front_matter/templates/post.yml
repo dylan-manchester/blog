@@ -35,4 +35,5 @@ fields:
       path: 
   label: type
 pages:
+- exampleSite/content/blog/surfing.md
 - exampleSite/content/blog/yosemite.md
