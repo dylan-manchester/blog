@@ -34,3 +34,5 @@ fields:
       file: 
       path: 
   label: type
+pages:
+- exampleSite/content/blog/yosemite.md
