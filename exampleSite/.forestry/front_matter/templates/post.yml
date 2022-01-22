@@ -36,5 +36,6 @@ fields:
   label: type
 pages:
 - exampleSite/content/blog/big-beta.md
+- exampleSite/content/blog/cookie-monster-elmo.md
 - exampleSite/content/blog/surfing.md
 - exampleSite/content/blog/yosemite.md
